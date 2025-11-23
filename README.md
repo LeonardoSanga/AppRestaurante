@@ -1,7 +1,25 @@
-# AppRestaurante
-Projeto fiinal da disciplina de Desenvolviimento para Dispositivos Web.
+# Sistema Mobile de Restaurante
+Este projeto é um sistema para dispositivos móveis desenvolvido em Flutter com Dart. O ambiente de execução utilizado foi o Chrome, aproveitando o suporte do Flutter Web para facilitar testes rápidos e ajustes na interface.
 
+## Persistência
+A aplicação utiliza SharedPreferences como tecnologia de persistência permanente para o tema do aplicativo e para os dados do pedido, persistindo à atualização da guia ou fechamento do navegador.</br>
+Para facilitar a manipulação dos dados estruturados, foram utilizados:
+<ul>
+<li>jsonEncode() → para serializar objetos em String</li>
+<li>jsonDecode() → para transformar a String novamente em mapa/objeto utilizável</li>
+</ul>
+Essa combinação permite armazenar coleções complexas de dados de forma prática.
 
+## Funcionalidades
+
+O sistema implementa um CRUD completo, incluindo:
+<ul>
+<li>Create → cadastro de itens no cardápio e no carrinho</li>
+<li>Read → listagem dinâmica dos itens salvos</li>
+<li>Update → edição de produtos, quantidades e informações</li>
+<li>Delete → remoção de registros preservados no SharedPreferences</li>
+</ul>
+Toda a lógica de persistência foi estruturada para garantir integridade dos dados entre sessões.
 
 ## Aplicativo em funcionamento
 
