@@ -21,7 +21,7 @@ O sistema implementa um CRUD completo, incluindo:
 </ul>
 Toda a lógica de persistência foi estruturada para garantir integridade dos dados entre sessões.
 
-## Aplicativo em funcionamento
+## Aplicação em Funcionamento
 
 <img width="375" height="666" alt="image" src="https://github.com/user-attachments/assets/7589b86f-abb6-4cbe-99db-9a1526135f5c" />
 
