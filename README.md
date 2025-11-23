@@ -1,6 +1,8 @@
 # AppRestaurante
 Projeto fiinal da disciplina de Desenvolviimento para Dispositivos Web.
 
+
+
 ## Aplicativo em funcionamento
 
 <img width="375" height="666" alt="image" src="https://github.com/user-attachments/assets/7589b86f-abb6-4cbe-99db-9a1526135f5c" />
@@ -40,4 +42,16 @@ Projeto fiinal da disciplina de Desenvolviimento para Dispositivos Web.
 <img width="380" height="671" alt="image" src="https://github.com/user-attachments/assets/0763d6d0-ff3b-4e3a-8fe4-e61f13af8add" />
 
 ### Modo escuro
+
+#### Seleção do tema
+<img width="376" height="668" alt="image" src="https://github.com/user-attachments/assets/f9ce1116-2cb3-42aa-bb8b-6b22915a661a" />
+<img width="379" height="672" alt="image" src="https://github.com/user-attachments/assets/108dd673-662f-4266-b3aa-2b009074bee5" />
+
+#### App com tema escuro
+<img width="372" height="662" alt="image" src="https://github.com/user-attachments/assets/e60dbd21-ab8c-4781-ba33-a3ed44c595b6" />
+<img width="369" height="661" alt="image" src="https://github.com/user-attachments/assets/1b9898b0-398a-4858-98b2-eaad9e285c52" />
+<img width="373" height="666" alt="image" src="https://github.com/user-attachments/assets/682d12ec-adb0-412e-9bba-84588984fa95" />
+<img width="370" height="663" alt="image" src="https://github.com/user-attachments/assets/e0fffc5a-6907-4dae-8ead-8488ccfaf315" />
+
+
 
