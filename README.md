@@ -1,5 +1,5 @@
 # Sistema Mobile de Restaurante
-Este projeto é um sistema para dispositivos móveis desenvolvido em Flutter com Dart. O ambiente de execução utilizado foi o Chrome, aproveitando o suporte do Flutter Web para facilitar testes rápidos e ajustes na interface.
+Este projeto é um sistema para dispositivos móveis desenvolvido em Flutter com Dart. O ambiente de execução utilizado foi o Chrome, aproveitando o suporte do Flutter Web para facilitar testes rápidos e ajustes na interface. O projeto não objetiva construir um aplicativo funcional e competitivo no mercado, mas sim aplicar tudo o que foi aprendido na disciplina de Desenvolvimento para Dispositivos Móveis.
 
 ## Persistência
 A aplicação utiliza SharedPreferences como tecnologia de persistência permanente para o tema do aplicativo e para os dados do pedido, persistindo à atualização da guia ou fechamento do navegador.</br>
