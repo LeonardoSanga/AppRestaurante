@@ -13,7 +13,7 @@ Essa combinação permite armazenar coleções complexas de dados de forma prát
 ## Funcionalidades
 
 O sistema implementa um CRUD completo, incluindo:
-<ul>
+<ul> 
 <li>Create → cadastro de itens no cardápio e no carrinho</li>
 <li>Read → listagem dinâmica dos itens salvos</li>
 <li>Update → edição de produtos, quantidades e informações</li>
